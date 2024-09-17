@@ -83,7 +83,7 @@ def load_model():
 Save the provided code in a file, e.g., `app.py`. Then run the Streamlit application using:
 
 ```bash
-streamlit run app.py
+streamlit run Molecules_Generator.py
 ```
 
 ### Application Interface
